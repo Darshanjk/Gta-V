@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GroupsConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Default>user</Default>
+  <DefaultGuest>user</DefaultGuest>
+  <Groups>
+    <Group>
+      <Name>admin</Name>
+      <Permissions>
+        <Permission>command.kick</Permission>
+        <Permission>command.tp</Permission>
+        <Permission>command.setgroup</Permission>
+        <Permission>group.user</Permission>
+      </Permissions>
+    </Group>
+    <Group>
+      <Name>user</Name>
+      <Permissions>
+        <Permission>command.login</Permission>
+        <Permission>command.register</Permission>
+        <Permission>command.about</Permission>
+        <Permission>command.help</Permission>
+        <Permission>command.plugins</Permission>
+        <Permission>command.tps</Permission>
+        <Permission>command.vote</Permission>
+        <Permission>command.say</Permission>
+        <Permission>command.who</Permission>
+      </Permissions>
+    </Group>
+  </Groups>
+</GroupsConfiguration>

@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ServerConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ServerVariables />
-  <Port>4499</Port>
-  <MaxClients>16</MaxClients>
+  <Port>23171</Port>
+  <MaxClients>50</MaxClients>
   <GamemodeName>none</GamemodeName>
-  <ServerName>GTACoOp Server</ServerName>
+  <ServerName>Leo Das Server</ServerName>
   <Password />
   <PrimaryMasterServer>https://master.gtacoop.com/</PrimaryMasterServer>
   <BackupMasterServer />
   <AnnounceSelf>true</AnnounceSelf>
   <AllowNicknames>true</AllowNicknames>
   <DebugMode>false</DebugMode>
-  <Motd>Welcome to this GTA CooP server!</Motd>
+  <Motd>Welcome to LeoDas,s  Server!</Motd>
   <UseGroups>true</UseGroups>
   <UPnP>true</UPnP>
   <DualStack>false</DualStack>
